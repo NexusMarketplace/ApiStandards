@@ -14,7 +14,7 @@ It also only applies to web services providing information classified as either 
 
 Where does that leave REST APIs? Can NZ Government agencies build some or do they have to use SOAP? There is some confusion among agencies about this, so we talked to the GCIO who said: *“The GEA-NZ secure web services standard states that its scope is WS-&#42;/SOAP-based web services and it does not apply to REST-based services. That does not mean that you have to use the former, just that we hadn’t settled on preferred standards and patterns at the time.”*
 
-The Nexus Marketplace is working with the [GCIO](https://www.ict.govt.nz/governance-and-leadership/the-gcio-team/) to develop a set of REST based API standards to give API suppliers and consumer guidance and assurance on how to build and consume NZ government APIs.
+The Nexus Marketplace is working with the [GCIO](https://www.ict.govt.nz/governance-and-leadership/the-gcio-team/) to develop a set of REST based API standards to give API suppliers and consumer guidance and assurance on how to build and consume NZ Government APIs.
 
 ### How can I contribute?
 This document captures **Nexus's view of API best practices and standards**. We aim to incorporate as many of them as possible into our work. To contribute please contact us at nexusmarketplace@gmail.com or send a pull request.
